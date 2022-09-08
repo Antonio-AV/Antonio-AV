@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
   
           
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="60" height="60"/>       
  
@@ -34,7 +34,7 @@
 </div>
 
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: ANTONIO VICTOR MENDES FONSECA](https://img.shields.io/badge/-AntonioVictorMendesFonseca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-victor-mendes-fonseca-26539924b/)](https://www.linkedin.com/in/antonio-victor-mendes-fonseca-26539924b/)
 [![Gmail Badge](https://img.shields.io/badge/-anvimefo0123@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anvimefo0123@gmail.com)](mailto:anvimefo0123@gmailcom)
