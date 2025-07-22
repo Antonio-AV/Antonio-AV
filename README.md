@@ -39,3 +39,10 @@
 [![Linkedin: ANTONIO VICTOR MENDES FONSECA](https://img.shields.io/badge/-AntonioVictorMendesFonseca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-victor-mendes-fonseca-26539924b/)](https://www.linkedin.com/in/antonio-victor-mendes-fonseca-26539924b/)
 [![Gmail Badge](https://img.shields.io/badge/-anvimefo0123@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anvimefo0123@gmail.com)](mailto:anvimefo0123@gmailcom)
 [![GitHub Antônio Victor]( https://img.shields.io/github/followers/Antonio-AV?label=follow&style=social)](https://github.com/Antonio-AV)
+
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berilovania/Antonio-AV/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berilovania/Antonio-AV/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Antonio-AV/Antonio-AV/output/pacman-contribution-graph.svg">
+</picture>
